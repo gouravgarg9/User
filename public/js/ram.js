@@ -1,0 +1,1 @@
+const ram = 7;
